@@ -1,128 +1,156 @@
-# 📊 Power BI Dashboard Portfolio
+# Marketing Analysis Report
 
-Welcome to my Power BI Dashboard Portfolio.
+## Description
 
-This repository showcases dashboards developed as part of my learning journey, personal projects, and technical experiments in Business Intelligence and Data Analytics. The goal is to demonstrate my ability to transform raw data into meaningful, interactive, and visually engaging dashboards.
+The **Marketing Analysis Report** is a Power BI dashboard designed to analyze sales performance and marketing effectiveness through a set of interactive visualizations and key business metrics.
 
-To respect confidentiality agreements and data privacy, dashboards developed for employers or clients are **not included** in this repository. Every project available here uses public, simulated, or self-created datasets.
-
----
-
-# Technologies
-
-* Microsoft Power BI
-* DAX
-* Power Query (M)
-* SQL
-* Microsoft Excel
-* Microsoft Sentinel
-* KQL
-* HTML & CSS (Custom Visuals)
+The report provides a comprehensive view of sales performance across different channels, geographic regions, and products, while also enabling the evaluation of Return on Investment (ROI). By centralizing critical business information into a single analytical solution, the dashboard supports data-driven decision-making and performance monitoring.
 
 ---
 
-# Skills Demonstrated
+# Dashboard Pages
 
-### Business Intelligence
+## Executive Overview
 
-* Dashboard Design
-* KPI Development
-* Interactive Reporting
-* Data Storytelling
-* Business Analysis
+<p align="center">
+  <img src="<img width="1268" height="749" alt="Captura de tela 2026-07-07 224849" src="https://github.com/user-attachments/assets/2e724d28-12b5-46eb-b1e7-c85a9ab47bde" />
+" alt="Executive Overview" width="1000">
+</p>
 
-### Data Modeling
+The **Executive Overview** page provides a consolidated view of the organization's sales performance. It highlights key business indicators, allowing users to quickly assess overall results and understand how each sales channel contributes to total revenue.
 
-* Star Schema Modeling
-* Relationship Design
-* Data Transformation
-* ETL with Power Query
-* Data Cleaning
-* Performance Optimization
+The page combines KPI cards, product performance analysis, sales distribution, and historical trends to deliver a high-level perspective of the business.
 
-### Data Analytics
+### Metrics Displayed
 
-* DAX Measures
-* Time Intelligence
-* Trend Analysis
-* Comparative Analysis
-* Drill-down Reports
-* Data Visualization Best Practices
+- Total Sales
+- Online Sales
+- Social Media Sales
+- Outlet Sales
+- Store Sales
+- ROI by Channel
 
-### Cybersecurity Analytics
+### Available Analysis
 
-* Microsoft Sentinel Reporting
-* Security Operations Center (SOC) Metrics
-* Security Event Analysis
-* Incident Monitoring
-* Threat Intelligence Visualization
-* KQL Query Development
+- Revenue distribution across sales channels
+- Channel performance comparison
+- Top-performing products
+- Sales trends over time
+- ROI performance by channel
 
 ---
 
-# Dashboard Categories
+## Top Region
 
-This portfolio is continuously updated with dashboards covering different business scenarios, including:
+<p align="center">
+  <img src="<img width="1269" height="744" alt="Captura de tela 2026-07-07 224918" src="https://github.com/user-attachments/assets/b7ad8cf9-1845-40e8-91f9-35192f69f5cb" />
+" alt="Top Region" width="1000">
+</p>
 
-* Cybersecurity
-* Business Intelligence
-* Executive Dashboards
-* Operations
-* Finance
-* Human Resources
-* Sales Analytics
-* Customer Analytics
-* IT Operations
-* Custom Data Visualization Projects
+The **Top Region** page focuses on geographic analysis, helping users understand how sales performance varies across states and regions.
 
-Each project includes:
+The Treemap visualization highlights the contribution of each state and sales channel, while the interactive map provides a geographical view of sales distribution and ROI performance.
 
-* Project Overview
-* Business Objective
-* Dashboard Preview
-* Data Model
-* Key Metrics
-* DAX Techniques
-* Main Insights
-* Technologies Used
+This page enables users to identify high-performing markets, compare regional performance, and explore geographic sales patterns.
 
----
+### Metrics Displayed
 
-# Repository Structure
+- Sales by State
+- Sales by Channel
+- Regional Sales Contribution
+- ROI by Location
 
-```text
-assets/
-│
-├── dashboard-images/
-├── icons/
-└── banners/
+### Available Analysis
 
-dashboards/
-│
-├── dashboard-01/
-├── dashboard-02/
-├── dashboard-03/
-└── ...
-
-docs/
-
-README.md
-```
+- State-level sales performance
+- Geographic distribution of revenue
+- Channel performance by region
+- Regional market comparison
+- High-performing sales territories
 
 ---
 
-# About This Portfolio
+## Return on Investment (ROI)
 
-This repository represents my continuous learning journey in Business Intelligence, Data Analytics, and Cybersecurity.
+<p align="center">
+  <img src="<img width="1258" height="748" alt="Captura de tela 2026-07-07 224955" src="https://github.com/user-attachments/assets/2fa7573a-a7bd-4856-8c93-f3a54f0622eb" />
+" alt="ROI Analysis" width="1000">
+</p>
 
-Each dashboard is an opportunity to explore new visualization techniques, improve analytical thinking, and apply best practices in data modeling, DAX development, and interactive reporting.
+The **Return on Investment (ROI)** page is dedicated to measuring the effectiveness of business investments and marketing efforts.
 
-New projects will be added regularly as I continue learning and exploring new business scenarios.
+In addition to the overall ROI indicator, the page provides detailed insights into profitability by product, geographic location, and time period. The combination of sales and ROI metrics allows users to evaluate not only revenue generation but also the efficiency of investmente
+- Total Sales
+- ROI Trend
+
+### Available Analysis
+
+- Overall business profitability
+- Product-level ROI comparison
+- Geographic ROI performance
+- ROI evolution over time
+- Relationship between sales growth and profitability
 
 ---
 
-## Connect with Me
+# Interactive Filters
 
-Feel free to explore the projects, leave feedback, or connect with me.
+The dashboard includes dynamic filters that allow users to customize their analysis and explore data from multiple perspectives.
 
-Thank you for visiting my portfolio!
+### Available Filters
+
+- Year
+- Region
+- Channel
+- State
+
+All visualizations update automatically based on the selected filters, providing an interactive and responsive analytical experience.
+
+---
+
+# 🛠️ Technologies Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Dimensional Data Modeling
+- Azure Maps
+
+---
+
+#  Dashboard Features
+
+- Executive KPI monitoring
+- Channel performance analysis
+- Geographic sales visualization
+- ROI analysis and tracking
+- Product performance ranking
+- Interactive filtering and navigation
+- Time-series analysis
+- Responsive dashboard design
+
+---
+
+#  Key Insights Supported
+
+The dashboard enables users to:
+
+- Monitor overall sales performance
+- Evaluate the contribution of each sales channel
+- Identify top-performing products
+- Analyze regional sales distribution
+- Measure return on investment
+- Track sales and profitability trends over time
+- Support strategic and operational decision-making
+
+---
+
+#  Author
+
+**Leonardo Panarella Neto**
+
+Power BI • Data Analytics • Azure • Cybersecurity
+
+🔗 LinkedIn: https://www.linkedin.com/in/leopanarella/
+
+🔗 GitHub: https://github.com/LeoPanarella
